@@ -74,7 +74,7 @@ module.exports = {
       filename: "css/[name].[contenthash].css",
     }),
     new CleanWebpackPlugin(),
-    new Dotenv(),
+    new Dotenv({ systemvars: true }),
 
     /*new CopyPlugin({
       patterns: [
