@@ -9,8 +9,8 @@
     "build-serve": "webpack serve --config webpack.config.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Marlon Alexis Acosta Benites",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.16.5",
     "@babel/plugin-transform-runtime": "^7.16.5",
