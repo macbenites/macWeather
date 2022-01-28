@@ -14,7 +14,7 @@ export default function NotFound() {
 const PageNotFound = styled.div`
   color: var(--headline);
   text-align: center;
-  margin: 2rem 2rem;
+  margin: 2.1rem 2.1rem;
   img {
     width: 100%;
   }
